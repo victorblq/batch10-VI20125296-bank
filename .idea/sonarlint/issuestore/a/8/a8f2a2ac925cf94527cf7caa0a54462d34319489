@@ -1,0 +1,19 @@
+
+4
+java:S1451"&Add or update the header of this file.
+d
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(şÓî«şÿÿÿÿ8¯á®ƒ“.
+I
+java:S2208".Explicitly import the specific classes needed.(¬£şç8ƒ¯ƒ“.
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÀÜ¬ıÿÿÿÿ
+j	java:S103"KSplit this 145 characters long line (which is greater than 120 authorized).(©¦‘Ùıÿÿÿÿ8Æ˜£¬“.
+d
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(£©èÚşÿÿÿÿ8ò¥ê†“.
+Z
+java:S1106"AMove this left curly brace to the beginning of next line of code.(³Ì›®ûÿÿÿÿ
+o
+java:S1128"ORemove this unused import 'com.fasterxml.jackson.annotation.JsonBackReference'.(»Ôœ¿ıÿÿÿÿ8é„…“.
+o
+java:S1128"ORemove this unused import 'com.fasterxml.jackson.annotation.ObjectIdGenerator'.(³å©Æúÿÿÿÿ8ËÈ……“.
+a
+java:S1106"AMove this left curly brace to the beginning of next line of code.(èÍÓÁüÿÿÿÿ8ò¥ê†“.

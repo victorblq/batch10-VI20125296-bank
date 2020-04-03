@@ -1,0 +1,17 @@
+
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÀÜ¬ıÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ğº8©±ğ†“.
+o
+java:S1128"ORemove this unused import 'com.fasterxml.jackson.annotation.JsonBackReference'.(»Ôœ¿ıÿÿÿÿ8íìÙ†“.
+d
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(şÓî«şÿÿÿÿ8½‘²ƒ“.
+U
+java:S1106"AMove this left curly brace to the beginning of next line of code.(§·´¤
+e	java:S103"KSplit this 145 characters long line (which is greater than 120 authorized).(ÓË8‡Û£¬“.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(·…§É8©±ğ†“.
+I
+java:S2208".Explicitly import the specific classes needed.(¬£şç8½‘²ƒ“.
+4
+java:S1451"&Add or update the header of this file.

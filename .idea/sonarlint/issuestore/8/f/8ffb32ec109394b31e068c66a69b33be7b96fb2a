@@ -1,0 +1,36 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÔÈ 8Ï”€„“.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(òÉÑî8 Î„“.
+a
+java:S1106"AMove this left curly brace to the beginning of next line of code.(½ôœîûÿÿÿÿ8Ï”€„“.
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ÔÙ¶8¾İ…„“.
+d
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ìŒ²úşÿÿÿÿ8÷“Ï„“.
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(”ß™…8à˜…“.
+d
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ìŒ²úşÿÿÿÿ8üş­„“.
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(›‡Òè8çÖ›„“.
+a
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÓÆÍÍûÿÿÿÿ8¾İ…„“.
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¶¡íúÿÿÿÿ8Õîñ„“.
+_
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(×«¤¹8æŠ´„“.
+a
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¦êÆÂÿÿÿÿÿ8æŠ´„“.
+[
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Â—¦}8òÃš…“.
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.( ¦ëÒ8¾İ…„“.
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(òÉÑî8İÍÒ„“.
+;
+java:S1451"&Add or update the header of this file.8Ï”€„“.
+a
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¶¡íúÿÿÿÿ8µşî„“.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(›‡Òè8Ï”€„“.
+^
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ªÅÈ8Õîñ„“.
+_	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Â—¦}8§‡ …“.

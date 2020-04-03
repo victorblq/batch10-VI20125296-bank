@@ -1,0 +1,12 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Çµí‘8Şçç‘.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(“ºë8“À½.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘8Şçç‘.
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(†³‘8Şçç‘.
+y	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÖõÃùÿÿÿÿ8“À½.
+;
+java:S1451"&Add or update the header of this file.8“À½.

@@ -1,0 +1,16 @@
+
+4
+java:S1451"&Add or update the header of this file.
+d
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Œòı±øÿÿÿÿ8ßÖ™…“.
+U
+java:S1106"AMove this left curly brace to the beginning of next line of code.(½£ëÌ
+U
+java:S1258":Add a constructor to the class, or provide default values.(½£ëÌ8ßÖ™…“.
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ÍÅêúÿÿÿÿ
+Q
+java:S1068"1Remove this unused "fromAccountId" private field.(Œòı±øÿÿÿÿ8Õ‹İ“.
+O
+java:S1068"/Remove this unused "toAccountId" private field.(òˆ©ëøÿÿÿÿ8Õ‹İ“.
+D
+java:S1068"*Remove this unused "amount" private field.(œ÷‘_8Õ‹İ“.

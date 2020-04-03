@@ -1,0 +1,41 @@
+
+d
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¿”´ªúÿÿÿÿ8¾¬Åƒ“.
+a
+java:S1106"AMove this left curly brace to the beginning of next line of code.(“­Å÷üÿÿÿÿ8•ƒèƒ“.
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤­å‰şÿÿÿÿ
+4
+java:S1451"&Add or update the header of this file.
+U
+java:S1106"AMove this left curly brace to the beginning of next line of code.(œëà
+d
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(çó³ƒüÿÿÿÿ8Ğ‡Î„“.
+d
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Ø¹¸šıÿÿÿÿ8×—ˆ„“.
+d
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ˆ¼Á€ÿÿÿÿÿ8˜Ñƒ“.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(©Ÿ¯…8Ò½Íƒ“.
+d
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¾¬öñûÿÿÿÿ8Ä´š…“.
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(°Ö¯ÿ8ª—Èƒ“.
+a
+java:S1106"AMove this left curly brace to the beginning of next line of code.(°ÇÈşøÿÿÿÿ8­•¿ƒ“.
+a
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ë­Âüûÿÿÿÿ8ê¨Äƒ“.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ªÂ•‰8Âë‘…“.
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Èş×µ8Ğ‡Î„“.
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ßÄß´8€æÈ„“.
+I
+java:S2208".Explicitly import the specific classes needed.(Ñ»ïÒ8Ò½Íƒ“.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(º…çí8­•¿ƒ“.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(–×ä¤8€æÈ„“.
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(°ÇÈşøÿÿÿÿ8×‹İ“.
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(–×ä¤8×‹İ“.
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ªÂ•‰8×‹İ“.

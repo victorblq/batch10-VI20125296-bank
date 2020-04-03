@@ -1,0 +1,52 @@
+
+]
+java:S4684'"@Replace this persistent entity with a simple POJO or DTO object.(Àü‹ë8ÃÚÂ…“.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÅÅ¿ùÿÿÿÿ8Öø×ƒ“.
+k
+java:S51283"IAdd missing "@Valid" on "customer" to validate it with "Bean Validation".(—· ôùÿÿÿÿ8ÃÚÂ…“.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤­å‰şÿÿÿÿ
+c
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(÷Ïÿêûÿÿÿÿ8…“Şƒ“.
+a
+java:S1120."DMake this line start after 4 spaces to indent the code consistently.(¡á™î8Öˆ„“.
+c
+java:S11069"AMove this left curly brace to the beginning of next line of code.(äéÿüüÿÿÿÿ8¶ö¤„“.
+c
+java:S11063"AMove this left curly brace to the beginning of next line of code.(—· ôùÿÿÿÿ8ÿ‚ „“.
+l	java:S103""KSplit this 133 characters long line (which is greater than 120 authorized).(ç›¹™ÿÿÿÿÿ8…“Şƒ“.
+K
+java:S2208
+".Explicitly import the specific classes needed.(Ñ»ïÒ8Ä²Œ„“.
+c
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(‚ğÕäûÿÿÿÿ8Ä²Œ„“.
+f
+java:S1120""DMake this line start after 4 spaces to indent the code consistently.(ç›¹™ÿÿÿÿÿ8…“Şƒ“.
+b
+java:S4684-"@Replace this persistent entity with a simple POJO or DTO object.(‚ğÕäûÿÿÿÿ8ÃÚÂ…“.
+g	java:S103'"KSplit this 133 characters long line (which is greater than 120 authorized).(Àü‹ë8®•„“.
+g	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(÷Ïÿêûÿÿÿÿ8…“Şƒ“.
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(„àôğıÿÿÿÿ8Öø×ƒ“.
+4
+java:S1451"&Add or update the header of this file.
+f
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(çó³ƒüÿÿÿÿ8®•„“.
+a
+java:S11204"DMake this line start after 4 spaces to indent the code consistently.(¡á™î8ÿ‚ „“.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(«î•€8š¸Úƒ“.
+a
+java:S1120:"DMake this line start after 4 spaces to indent the code consistently.(ñÈœæ8¶ö¤„“.
+k
+java:S5128-"IAdd missing "@Valid" on "customer" to validate it with "Bean Validation".(‚ğÕäûÿÿÿÿ8ÃÚÂ…“.
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¢ÊÙÓ
+a
+java:S1120("DMake this line start after 4 spaces to indent the code consistently.(ÿÉÀ8®•„“.
+b
+java:S46843"@Replace this persistent entity with a simple POJO or DTO object.(—· ôùÿÿÿÿ8ÃÚÂ…“.
+a
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Èş×µ8®•„“.
+^
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(Àü‹ë8ğô„“.
